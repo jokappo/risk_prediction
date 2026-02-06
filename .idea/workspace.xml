@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136e16a7-a7d2-4fde-8e8b-26541a15f9f4" name="Changes" comment="prediction de risk en cas d'emprunt" />
+    <list default="true" id="136e16a7-a7d2-4fde-8e8b-26541a15f9f4" name="Changes" comment="fichier crypté">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jokappo"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/jokappo/risk_prediction.git",
@@ -77,7 +85,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770413444831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prediction de risk en cas d'emprunt">
+      <option name="closed" value="true" />
+      <created>1770413642502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770413642502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fichier crypté">
+      <option name="closed" value="true" />
+      <created>1770413688762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770413688762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prediction de risk en cas d'emprunt" />
-    <option name="LAST_COMMIT_MESSAGE" value="prediction de risk en cas d'emprunt" />
+    <MESSAGE value="fichier crypté" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichier crypté" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
